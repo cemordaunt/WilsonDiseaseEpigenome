@@ -2,7 +2,7 @@
 Analysis scripts for identification and visualization of Wilson disease-associated DNA methylation changes in human liver and blood.
 
 ## Article: Epigenomic signatures in liver and blood of Wilson disease patients include hypermethylation of liver-specific enhancers
-#### Mordaunt CE, Kieffer DA, Shibata NM, Czlonkowska A, Litwin T, Weiss KH, Zhu Y, Bowlus CL, Sarkar S, Cooper S, Wan YY, Ali M, LaSalle JM, and Medici V.
+#### Mordaunt CE, Kieffer DA, Shibata NM, Czlonkowska A, Litwin T, Weiss KH, Zhu Y, Bowlus CL, Sarkar S, Cooper S, Wan YY, Ali M, LaSalle JM, and Medici V. Under Review at *Epigenetics & Chromatin*.
 
 Wilson Disease (WD) is an autosomal recessive disease caused by mutations in *ATP7B* encoding a copper transporter. Consequent copper accumulation results in a variable WD clinical phenotype involving hepatic, neurologic, and psychiatric symptoms, without clear genotype-phenotype correlations. The goal of this study was to analyze alterations in DNA methylation at the whole-genome level in liver and blood from patients with WD. 
 
