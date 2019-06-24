@@ -2,7 +2,7 @@
 Analysis scripts for identification and visualization of Wilson disease-associated DNA methylation changes in human liver and blood.
 
 ## Article: Epigenomic signatures in liver and blood of Wilson disease patients include hypermethylation of liver-specific enhancers
-#### Mordaunt CE, Kieffer DA, Shibata NM, Czlonkowska A, Litwin T, Weiss KH, Zhu Y, Bowlus CL, Sarkar S, Cooper S, Wan YY, Ali M, LaSalle JM, and Medici V. Under Review at *Epigenetics & Chromatin*.
+#### Mordaunt CE, Kieffer DA, Shibata NM, Czlonkowska A, Litwin T, Weiss KH, Zhu Y, Bowlus CL, Sarkar S, Cooper S, Wan YY, Ali M, LaSalle JM, and Medici V. 2019. *Epigenetics & Chromatin* 12(10):1-16.
 
 ***Published Article:*** https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-019-0255-z
 
